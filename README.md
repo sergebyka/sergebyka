@@ -1,1 +1,2 @@
 # sergebyka
+# POM_pattern
